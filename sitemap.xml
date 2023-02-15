@@ -46,11 +46,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.promptx.ai/api/workings-of-a-GPT/</loc>
-         <lastmod>2023-02-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://www.promptx.ai/api/promptxai/__init__/</loc>
          <lastmod>2023-02-15</lastmod>
          <changefreq>daily</changefreq>
