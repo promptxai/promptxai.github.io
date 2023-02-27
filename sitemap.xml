@@ -126,6 +126,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.promptx.ai/content/use-gpt-to-query-recent-web-content/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.promptx.ai/hugging-face/5-minutes-generative-ai-developer-setup/</loc>
          <lastmod>2023-02-27</lastmod>
          <changefreq>daily</changefreq>
