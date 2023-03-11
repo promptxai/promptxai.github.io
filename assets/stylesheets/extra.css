@@ -63,3 +63,23 @@
 
   }
   
+  /*override text color of a button class to white*/
+  .cta-button {
+    background-color: #d048cb;
+    color: #fff !important;
+    border-radius: 4px;
+    padding: 5px 10px;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 10px;
+  }
+
+  .cta-button:hover {
+    background-color: #b03aa8;
+  }
+
+  .cta-button:active {
+    background-color: #8f2a85;
+  }
